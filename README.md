@@ -13,6 +13,6 @@ Run (development):
 
 Now visit:
 
-    - [http://localhost:8088/]
-    - [http://localhost:8088/hello]
-    - [http://localhost:8088/again]
+- [http://localhost:8088/]
+- [http://localhost:8088/hello]
+- [http://localhost:8088/again]
